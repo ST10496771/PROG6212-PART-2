@@ -6,7 +6,7 @@ This is the RESTful API for the RaceDay event management system. It lets organis
 
 ## Links
 
-- YouTube video (unlisted): ADD LINK HERE
+- YouTube video (unlisted): (https://youtu.be/AKlZwFF2i2o)
 - Part 1 repository: https://github.com/ST10496771/PROG6212-PART-1
 
 ## CI/CD build
