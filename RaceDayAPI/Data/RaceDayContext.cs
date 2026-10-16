@@ -1,6 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using RaceDayApi.Models;
-using RaceDayAPI.Models;
 
 namespace RaceDayApi.Data;
 
