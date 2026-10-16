@@ -1,6 +1,8 @@
-﻿namespace RaceDayAPI.Models
+namespace RaceDayApi.Models;
+
+public enum EventType
 {
-    public class EventType
-    {
-    }
+    Run,
+    Walk,
+    Cycle
 }
